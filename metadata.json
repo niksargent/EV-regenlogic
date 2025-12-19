@@ -1,0 +1,5 @@
+{
+  "name": "EV Regen vs Coast Simulator",
+  "description": "A physics-based simulator comparing the energy efficiency of coasting versus regenerative braking in electric vehicles.",
+  "requestFramePermissions": []
+}
